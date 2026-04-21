@@ -1,9 +1,8 @@
+<h1 align="left">SQL Portfolio</h1>
 
-<h1 align="left">Projects</h1>
+<h2 align="left">Projects</h2>
 
----
-
-<h2 align="left">Home Credit Group - Borrower Risk Profiling </h2>
+<h3 align="left">Home Credit Group - Borrower Risk Profiling </h3>
 
 Home Credit Group extends loans to underbanked borrowers — a population largely excluded from traditional credit markets due to limited or nonexistent credit histories. Without conventional credit scores, identifying which borrower characteristics reliably predict repayment behavior is the core underwriting challenge. At 122 columns, the dataset had to be understood before it could be analyzed — each variable interpreted in the context of Home Credit's lending model, scoped to 25 columns, and cleaned before a single exploratory query was written. The analysis produced a defined high-risk borrower profile — isolating the demographic, financial, and stability factors that separate high-risk borrowers from low-risk ones in this portfolio.
 
