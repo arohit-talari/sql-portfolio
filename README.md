@@ -16,7 +16,7 @@ Home Credit Group extends loans to underbanked borrowers — a population largel
 |---|---|
 | **Domain** | Finance · Credit Risk |
 | **Tools** | MySQL |
-| **SQL Skills** | Data Cleaning, Transformation, & Conversion · Missing Value Handling · Aggregation & Grouping · Conditional Logic · Data Profiling · Exploratory Data Analysis |
+| **SQL Skills** | Data Cleaning & Transformation · Missing Value Handling · Aggregation & Grouping · Conditional Logic · Data Profiling · Exploratory Data Analysis |
 | **Dataset** | 307,511 rows · 25 columns |
 
 [View Project README](https://github.com/arohit-talari/home-credit-default-risk) **·** [View Data Cleaning Script](https://github.com/arohit-talari/home-credit-default-risk/blob/main/scripts/home_credit_data_cleaning.sql) **·** [View EDA Script](https://github.com/arohit-talari/home-credit-default-risk/blob/main/scripts/home_credit_eda.sql)
