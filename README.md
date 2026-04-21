@@ -1,6 +1,6 @@
 <h1 align="left">SQL Portfolio</h1>
 
-Welcome to my SQL portfolio! This repository showcases my technical capabilities across two focus areas — data cleaning and transformation, and exploratory data analysis — applied to real-world business problems with decisions that depend on them.
+Welcome to my SQL portfolio! This repository showcases my technical capabilities across two focus areas — **data cleaning and transformation**, and **exploratory data analysis (EDA)** — applied to real-world business problems with decisions that depend on them.
 
 Before any project begins, my approach remains the same: the question comes first. What is the data being asked to answer, and for whom? The technical work — cleaning, transformation, analysis — follows from that. With the question established and the data structured to answer it, every decision made along the way is documented with the reasoning behind it.
 
