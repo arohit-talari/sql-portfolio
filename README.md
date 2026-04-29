@@ -19,7 +19,7 @@ Home Credit Group extends loans to underbanked borrowers — a population largel
 | **SQL Skills** | Data Cleaning · NULL Handling · Conditional Logic · Uni/Bivariate Analysis · Threshold Analysis · Risk Segmentation · EDA |
 | **Dataset** | 1 table · 307,511 records · 25 columns retained |
 
-[View Project README](https://github.com/arohit-talari/home-credit-default-risk) **·** [View Data Cleaning Script](https://github.com/arohit-talari/home-credit-default-risk/blob/main/scripts/home_credit_data_cleaning.sql) **·** [View EDA Script](https://github.com/arohit-talari/home-credit-default-risk/blob/main/scripts/home_credit_eda.sql)
+[Project README](https://github.com/arohit-talari/home-credit-default-risk) **·** [Data Cleaning Script](https://github.com/arohit-talari/home-credit-default-risk/blob/main/scripts/home_credit_data_cleaning.sql) **·** [EDA Script](https://github.com/arohit-talari/home-credit-default-risk/blob/main/scripts/home_credit_eda.sql)
 
 <h3 align="left">Olist — Marketplace Risk Analysis</h3>
 
@@ -33,5 +33,5 @@ Olist is a Brazilian e-commerce platform connecting small and medium-sized merch
 | **SQL Skills** | Data Cleaning · Relational Joins · Subquery Design · Dependency Loading · Conditional Logic · Bivariate Analysis · EDA  |
 | **Dataset** | 8 tables · 99,441 orders · 35 columns retained |
 
-[View Project README](https://github.com/arohit-talari/olist-ecommerce-analysis) **·** [View Data Cleaning Script](https://github.com/arohit-talari/olist-ecommerce-analysis/blob/main/scripts/olist_data_cleaning.sql) **·** [View EDA Script](https://github.com/arohit-talari/olist-ecommerce-analysis/blob/main/scripts/olist_eda.sql)
+[Project README](https://github.com/arohit-talari/olist-ecommerce-analysis) **·** [Data Cleaning Script](https://github.com/arohit-talari/olist-ecommerce-analysis/blob/main/scripts/olist_data_cleaning.sql) **·** [EDA Script](https://github.com/arohit-talari/olist-ecommerce-analysis/blob/main/scripts/olist_eda.sql)
 
