@@ -23,6 +23,8 @@ Home Credit Group extends loans to underbanked borrowers — a population largel
 
 <h3 align="left">Olist — Marketplace Risk Analysis</h3>
 
+Olist is a Brazilian e-commerce platform connecting small and medium-sized merchants to major online marketplaces — serving as the intermediary between independent sellers and customers across Brazil for order fulfillment, payment processing, and customer review collection. The platform spans 3,095 sellers and 99,441 orders across 2016 to 2018. The core analytical question: which combination of seller behavior, product category, and delivery patterns drives the highest concentration of late deliveries, low customer satisfaction, and revenue risk?
+
 
 | | |
 |---|---|
