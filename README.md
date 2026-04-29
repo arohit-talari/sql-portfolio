@@ -23,14 +23,13 @@ Home Credit Group extends loans to underbanked borrowers — a population largel
 
 <h3 align="left">Olist — Marketplace Risk Analysis</h3>
 
-Home Credit Group extends loans to underbanked borrowers — a population largely excluded from traditional credit markets due to limited or nonexistent credit histories. Without conventional credit scores, identifying which borrower characteristics reliably predict repayment behavior is the core underwriting challenge. At 122 columns, the dataset had to be understood before it could be analyzed — each variable interpreted in the context of Home Credit's lending model, scoped to 25 columns, and cleaned before a single exploratory query was written. The analysis produced a defined high-risk borrower profile — isolating the demographic, financial, and stability factors that separate high-risk borrowers from low-risk ones in this portfolio.
 
 | | |
 |---|---|
-| **Domain** | Finance · Credit Risk |
-| **Tools** | MySQL |
-| **SQL Skills** | Data Cleaning · Data Profiling · Data Transformation · NULL Handling · Aggregation · Conditional Logic · EDA |
-| **Dataset** | 307,511 rows · 25 columns |
+| **Domain** |  |
+| **Tools** |  |
+| **SQL Skills** |  |
+| **Dataset** |  |
 
 [View Project README](https://github.com/arohit-talari/olist-ecommerce-analysis) **·** [View Data Cleaning Script](https://github.com/arohit-talari/olist-ecommerce-analysis/blob/main/scripts/olist_data_cleaning.sql) **·** [View EDA Script](https://github.com/arohit-talari/olist-ecommerce-analysis/blob/main/scripts/olist_eda.sql)
 
