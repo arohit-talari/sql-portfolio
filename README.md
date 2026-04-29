@@ -8,7 +8,7 @@ Each project contains the original dataset, a cleaning script, and an EDA script
 
 <h2 align="left">Projects</h2>
 
-<h3 align="left">Home Credit Group - Borrower Risk Profiling</h3>
+<h3 align="left">Home Credit Group — Borrower Risk Profiling</h3>
 
 Home Credit Group extends loans to underbanked borrowers — a population largely excluded from traditional credit markets due to limited or nonexistent credit histories. Without conventional credit scores, the business faces a fundamental challenge: determining which borrower characteristics reliably predict who will repay and who won't. At 122 columns across 307,511 loan applications, the data had to be understood before it could be analyzed — each variable interpreted in the context of Home Credit's lending model, scoped to 25 columns, and cleaned before a single exploratory query was written. The analysis identified a specific borrower profile where default risk concentrates — and quantified exactly how far above the portfolio benchmark it sits.
 
