@@ -28,7 +28,7 @@ Home Credit Group extends loans to underbanked borrowers — a population largel
 |---|---|
 | **Domain** | E-Commerce · Marketplace Operations |
 | **Tools** | MySQL |
-| **SQL Skills** | Data Cleaning · Data Profiling · Multi-table JOINs · Pre-aggregation Subqueries · Dependency-ordered Loading · Conditional Logic · EDA  |
+| **SQL Skills** | Data Cleaning · Data Profiling · Multi-table JOINs · Pre-aggregation Subqueries · Conditional Logic · EDA  |
 | **Dataset** | 8 tables · 99,441 orders · 35 columns retained |
 
 [View Project README](https://github.com/arohit-talari/olist-ecommerce-analysis) **·** [View Data Cleaning Script](https://github.com/arohit-talari/olist-ecommerce-analysis/blob/main/scripts/olist_data_cleaning.sql) **·** [View EDA Script](https://github.com/arohit-talari/olist-ecommerce-analysis/blob/main/scripts/olist_eda.sql)
