@@ -30,7 +30,7 @@ Olist is a Brazilian e-commerce platform connecting small and medium-sized merch
 |---|---|
 | **Domain** | E-Commerce · Marketplace Operations |
 | **Tools** | MySQL |
-| **SQL Skills** | Data Cleaning · Relational Joins · Subquery Design · Dependency-ordered Loading · Conditional Logic · Bivariate Analysis · EDA  |
+| **SQL Skills** | Data Cleaning · Relational Joins · Subquery Design · Dependency Loading · Conditional Logic · Bivariate Analysis · EDA  |
 | **Dataset** | 8 tables · 99,441 orders · 35 columns retained |
 
 [View Project README](https://github.com/arohit-talari/olist-ecommerce-analysis) **·** [View Data Cleaning Script](https://github.com/arohit-talari/olist-ecommerce-analysis/blob/main/scripts/olist_data_cleaning.sql) **·** [View EDA Script](https://github.com/arohit-talari/olist-ecommerce-analysis/blob/main/scripts/olist_eda.sql)
