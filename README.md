@@ -2,7 +2,7 @@
 
 Welcome to my SQL portfolio! This repository showcases my technical capabilities in **data cleaning and transformation** and **exploratory data analysis (EDA)**, applied to real-world business problems with decisions that depend on them.
 
-Before any project begins, my approach remains the same: the question comes first. What is the data being asked to answer, and for whom? The technical work — cleaning, transformation, analysis — follows from that. With the question established and the data structured to answer it, every decision made along the way is documented with the reasoning behind it.
+Before any project begins, my approach remains the same: the question comes first. What is the data being asked to answer, and for whom? The technical work follows from that: cleaning, transformation, and analysis, each decision documented with the reasoning behind it. With the question established and the data structured to answer it, every decision made along the way is documented with the reasoning behind it.
 
 Each project contains the original dataset, a cleaning script, and an EDA script — fully annotated at every step.
 
