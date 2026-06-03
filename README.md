@@ -4,7 +4,7 @@ Welcome to my SQL portfolio! This repository showcases my technical capabilities
 
 Before any project begins, my approach remains the same: the question comes first. What is the data being asked to answer, and for whom? The technical work follows from that: cleaning, transformation, and analysis, each decision documented with the reasoning behind it. With the question established and the data structured to answer it, every decision made along the way is documented with the reasoning behind it.
 
-Each project contains the original dataset, a cleaning script, and an EDA script — fully annotated at every step.
+Each project contains the original dataset, a cleaning script, and an EDA script, fully annotated at every step.
 
 <h2 align="left">Projects</h2>
 
